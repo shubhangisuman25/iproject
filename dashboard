@@ -1,0 +1,201 @@
+<html>
+  <head>
+    <title>
+      Life insurance
+    </title>
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .container{
+        width:95%;
+        overflow:hidden;
+        margin:20px auto;
+        padding:20px 0px;
+        background:aliceblue;
+      }
+
+      .container ul{
+        padding: 0px;
+        margin:0px;
+      }
+
+      .container ul li{
+        list-style:none;
+        float:left;
+        width:21%;
+        height:300px;
+        margin:20px 30px 0px 55px;
+      }
+
+      .container ul li .title{
+        width:100%;
+      }
+
+      h1{
+        text-align : center;
+        padding-top: 20px;
+        color: darkblue;
+        text-decoration-line: underline;
+        text-decoration-color: darkblue;
+      }
+
+      p{
+        text-align: justify;
+        color:brown;
+        margin-left:10px;
+        margin-right:10px;
+      }
+
+      h2{
+        color:purple;
+        margin-left:10px;
+        margin-right:10px;
+      }
+
+      .button{
+        margin-left: 10px;
+      }
+
+      .button:hover{
+          color:darkblue;
+          background-color:white;
+        }
+        .button{
+          color:white;
+          background-color: darkblue;
+        }
+        li{
+          border: 10px solid skyblue;
+        }
+       
+    </style>
+
+  </head>
+
+  <body>
+    <div class="container px-4 py-5" id="hanging-icons">
+    <h1 class="pb-2 border-bottom">3S Life Insurance Plans</h1>
+    <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+      <div class="container">
+        <ul>
+
+        <li>
+      <div class="col d-flex align-items-start">
+        <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
+        </div>
+        <div>
+          <h2>3S Life Protection Plans</h2>
+          <p>Protection Plan help you shield your family from uncertainties in life due to financial losses in terms of loss of income that may dawn upon them in case of your untimely demise or critical illness. 
+          </p>
+          <div class="btn-group">
+                  <button type="button" class="button">Update</button>
+                  <button type="button" class="button">Delete</button>
+                  <button type="button" class="button">Details</button>               
+                   </div>
+        </div>
+      </div>
+    </li>
+
+      <li>
+      <div class="col d-flex align-items-start">
+        <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#cpu-fill"></use></svg>
+        </div>
+        <div>
+          <h2>3S Life Savings Plans</h2>
+          <p>Savings plans are offer a different opportunity to the individual to save and accumulate a fund for the future.</p>
+          <div class="btn-group">
+                  <button type="button" class="button">Update</button>
+                  <button type="button" class="button">Delete</button>
+                  <button type="button" class="button">Details</button>               
+                   </div>
+        </div>
+      </div>
+    </li>
+  
+      <li>
+      <div class="col d-flex align-items-start">
+        <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#tools"></use></svg>
+        </div>
+        <div>
+          <h2>3S Life ULIP Plans</h2>
+          <p>Unit Linked Insurance Plans provide capital market-linked returns on your investment, by allowing you to invest into a variety of equity and debt fund options.</p>
+         <div class="btn-group">
+                  <button type="button" class="button">Update</button>
+                  <button type="button" class="button">Delete</button>
+                  <button type="button" class="button">Details</button>               
+                   </div>
+        </div>
+      </div>
+    </li>
+
+      <li>
+      <div class="col d-flex align-items-start">
+        <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#tools"></use></svg>
+        </div>
+        <div>
+          <h2>3S Life Child Plans</h2>
+          <p>Child plans are insurance cum investment plans that help an individual create a corpus for children's future, over a period of time</p>
+         <div class="btn-group">
+                  <button type="button" class="button">Update</button>
+                  <button type="button" class="button">Delete</button>
+                  <button type="button" class="button">Details</button>               
+                   </div>
+        </div>
+      </div>
+      </li>
+      
+      <li>
+      <div class="col d-flex align-items-start">
+        <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#tools"></use></svg>
+        </div>
+        <div>
+          <h2>3S Life Pension Plans</h2>
+          <p>Pension Plans are specially designed to meet your post-retirement needs such as medical and living expenses. </p>
+         <div class="btn-group">
+                  <button type="button" class="button">Update</button>
+                  <button type="button" class="button">Delete</button>
+                  <button type="button" class="button">Details</button>               
+                   </div>
+        </div>
+      </div>
+    </li>
+      
+      <li>
+      <div class="col d-flex align-items-start">
+        <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#tools"></use></svg>
+        </div>
+        <div>
+          <h2>3S Life Group Plans</h2>
+          <p>A group life insurance policy covers all the members of the group against death and could extend coverage against terminal illness, accidental death or disability.</p>
+         <div class="btn-group">
+                  <button type="button" class="button">Update</button>
+                  <button type="button" class="button">Delete</button>
+                  <button type="button" class="button">Details</button>               
+                   </div>
+        </div>
+      </div>
+    </li>
+      
+    </div>
+  </div>  
+</body>
+</html>
+
